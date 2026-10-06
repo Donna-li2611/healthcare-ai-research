@@ -1,3 +1,36 @@
+# Healthcare AI Research · 医疗健康AI研究
+
+**From a platform's strategic narrative to evidence about its business and the role of AI.**
+
+## Research question
+
+Where could AI create value within a healthcare platform's existing transaction and service model, and what evidence would be needed to assess that claim?
+
+The analysis starts with business and revenue structure, distinguishes company statements from interpretation, and turns unresolved claims into questions for further investigation.
+
+## My contribution
+
+I define the research questions and comparison dimensions, organise public evidence, and interpret the implications for product and business choices. AI assists material organisation and drafting; facts, interpretation and hypotheses remain separate.
+
+## Read in this order
+
+1. [JD Health](cases/jd-health.md): product revenue and the role of AI services.
+2. [Alibaba Health](cases/alibaba-health.md): self-operated retail, platform and service boundaries.
+3. [Cross-case comparison](comparisons/platforms.md): align reporting periods and definitions before comparing.
+4. [Research workflow](method/research-workflow.md) and [evidence rules](method/evidence-rules.md): how claims become traceable.
+
+[Research-card template](templates/research-card.md) · [Evidence log](templates/evidence-log.csv) · [Official source index](sources/README.md)
+
+**Current stage: two public research cases and a reusable method.** Cases refer to specified reporting periods; their source-check dates are recorded in the individual files. This README update does not refresh financial data or create a current investment recommendation. AI features alone do not establish attributable revenue, clinical efficacy or commercial success.
+
+[Portfolio home](https://github.com/Donna-li2611)
+
+**README reviewed: 2026-10-06.**
+
+---
+
+## 中文说明
+
 # 医疗健康 AI 研究 · Healthcare AI Research
 
 **把平台介绍转化为有证据、可比较、有待验证问题的分析。**
