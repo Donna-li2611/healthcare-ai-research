@@ -1,5 +1,7 @@
 # Healthcare AI Research · 医疗健康AI研究
 
+**A self-directed personal project, initiated and developed by Xiaozhen Li (Donna).** I carry out the project's design, research and development myself, using AI tools in the workflow.
+
 **From a platform's strategic narrative to evidence about its business and the role of AI.**
 
 ## Research question
@@ -31,6 +33,8 @@ I define the research questions and comparison dimensions, organise public evide
 
 ## 中文说明
 
+**这是我个人独立开展的项目，构思、设计、研究、制作与已有成果均由我本人完成，过程中使用AI工具辅助。**
+
 # 医疗健康 AI 研究 · Healthcare AI Research
 
 **把平台介绍转化为有证据、可比较、有待验证问题的分析。**
@@ -55,6 +59,6 @@ I define the research questions and comparison dimensions, organise public evide
 
 ## 内容范围
 
-只使用公开资料与通用分析方法。内部业务建议、客户材料、个人工作日志没有迁入；第三方报告通过链接引用，不重新分发全文。
+这是我基于公开资料开展的个人研究。第三方报告通过链接引用，不重新分发全文。
 
 项目使用 AI 辅助资料整理与写作，分析结论与来源原文分开标注。此处展示研究方法，不提供买卖建议。
